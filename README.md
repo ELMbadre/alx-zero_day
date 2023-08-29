@@ -1,1 +1,1 @@
-How to be up to date in git
+ Collaboration: be up to date
